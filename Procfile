@@ -1,0 +1,1 @@
+worker: python sql_backup.py
